@@ -1,8 +1,8 @@
 {
-  "id": "test-hello-1",
-  "title": "Announcements are working 🎉",
-  "body": "If you can read this, Glide successfully fetched a live announcement. From now on you'll see update news here.",
-  "action": { "label": "Open release page", "url": "https://github.com/evdriver-tech/glide-announcements/releases" },
+  "id": "v1.4.1",
+  "title": "Glide 1.4.1 is available",
+  "body": "What's new: select multiple trips to export or delete at once, plus a new 'keep scores, erase data' option that frees storage while keeping your stats and graphs. Tap below to download the latest version — no rush, this message stays in your Settings tab until you update.",
+  "action": { "label": "Download update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v1.4.1/Glide-1.4.1.apk" },
   "minVersion": null,
-  "maxVersion": null
+  "maxVersion": "1.4.0"
 }
