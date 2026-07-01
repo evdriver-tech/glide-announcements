@@ -1,8 +1,11 @@
 {
-  "id": "v1.4.2",
-  "title": "Glide 1.4.2 is available",
-  "body": "What's new: Fix background recording initiation. Tap below to download the latest version — no rush, this message stays in your Settings tab until you update.",
-  "action": { "label": "Download update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v1.4.2/Glide-1.4.2.apk" },
+  "id": "v1.6.3",
+  "title": "Glide 1.6.3 — smarter driving insights 🚗",
+  "body": "What's new:\n\n• Recognizes more of your driving habits — including aggressive lane changes — for richer, more useful feedback.\n\n• Improved, fairer scoring — fewer false flags from bumps and rough roads.\n\n• More reliable recording and all-round stability improvements.\n\nTap below to grab the update.",
+  "action": {
+    "label": "Get Glide 1.6.3",
+    "url": "https://github.com/evdriver-tech/glide-announcements/releases/tag/v1.6.3"
+  },
   "minVersion": null,
-  "maxVersion": "1.4.1"
+  "maxVersion": "1.6.2"
 }
