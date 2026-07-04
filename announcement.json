@@ -4,5 +4,5 @@
   "body": "What's new:\n\n• Tutor mode for new drivers — NO on-screen prompts while driving (eyes on the road). At each stop Glide quietly replays your last few events, and after you park the trip becomes a shareable report card. Turn it on in Settings → Coaching & feedback.\n\n• Rock-solid background recording — Glide now keeps its motion sensors alive with the screen off, so trips log fully in your pocket and can finish on their own once you've parked and put the phone away.\n\n• Clearer map — driving events now show as larger red/green icons (hard braking, sharp turn, lane change, smooth stop, regen…) with a tidy, collapsible legend.\n\n• Review at a stop — while you're stopped, Glide gently replays your recent events so you can see how you're doing (in normal mode too, when you come back to the app).\n\n• Tidier Settings and smarter feedback.",
   "action": { "label": "Download the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/tag/v1.7.2" },
   "minVersion": null,
-  "maxVersion": null
+  "maxVersion": "1.7.1"
 }
