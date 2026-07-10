@@ -1,8 +1,8 @@
 {
-  "id": "2026-07-v1_7_2",
-  "title": "Glide 1.7.2 — Tutor mode, rock-solid background, clearer maps",
-  "body": "What's new:\n\n• Tutor mode for new drivers — NO on-screen prompts while driving (eyes on the road). At each stop Glide quietly replays your last few events, and after you park the trip becomes a shareable report card. Turn it on in Settings → Coaching & feedback.\n\n• Rock-solid background recording — Glide now keeps its motion sensors alive with the screen off, so trips log fully in your pocket and can finish on their own once you've parked and put the phone away.\n\n• Clearer map — driving events now show as larger red/green icons (hard braking, sharp turn, lane change, smooth stop, regen…) with a tidy, collapsible legend.\n\n• Review at a stop — while you're stopped, Glide gently replays your recent events so you can see how you're doing (in normal mode too, when you come back to the app).\n\n• Tidier Settings and smarter feedback.",
-  "action": { "label": "Download the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/tag/v1.7.2" },
+  "id": "glide-1.8.0",
+  "title": "Glide 1.8.0 is here 🌍",
+  "body": "🌍 Global Leaderboard — submit your scores and see how you rank against Glide drivers around the world.\n\n🎯 Fairer scoring — your Smooth Turns score now reflects how you actually take corners, not how long your drive was. Your past trips update automatically.\n\n📱 Better background recording — drives are now captured reliably even with the screen off or your phone in your pocket.",
+  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases" },
   "minVersion": null,
-  "maxVersion": "1.7.1"
+  "maxVersion": "1.8.0"
 }
