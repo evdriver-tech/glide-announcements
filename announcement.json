@@ -1,7 +1,7 @@
 {
   "id": "glide-1.8.0",
   "title": "Glide 1.8.0 is here 🌍",
-  "body": "🌍 Global Leaderboard — submit your scores and see how you rank against Glide drivers around the world.\n\n🎯 Fairer scoring — your Smooth Turns score now reflects how you actually take corners, not how long your drive was. Your past trips update automatically.\n\n📱 Better background recording — drives are now captured reliably even with the screen off or your phone in your pocket.",
+  "body": "🌍 Global Leaderboard — You have the option to submit your scores and see how you rank against Glide drivers around the world.\n\n🎯 Fairer scoring — your Smooth Turns score now reflects how you actually take corners, not how long your drive was. Your past trips update automatically.\n\n📱 Better background recording — drives are now captured reliably even with the screen off or your phone in your pocket.",
   "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases" },
   "minVersion": null,
   "maxVersion": "1.8.0"
