@@ -1,8 +1,8 @@
 {
-  "id": "glide-1.8.0",
-  "title": "Glide 1.8.0 is here 🌍",
-  "body": "🌍 Global Leaderboard — You have the option to submit your scores and see how you rank against Glide drivers around the world.\n\n🎯 Fairer scoring — your Smooth Turns score now reflects how you actually take corners, not how long your drive was. Your past trips update automatically.\n\n📱 Better background recording — drives are now captured reliably even with the screen off or your phone in your pocket.",
+  "id": "glide-1.8.9",
+  "title": "Glide 1.8.9 is here 🏎️",
+  "body": "🚇 Tunnels & underground now covered — Glide keeps scoring and coaching you even with no GPS.\n\n🎛️ New live G-force gauge shows the forces on your car in real time as you drive.\n\n🎓 New driver? Prefer to have 100% focus on the road? Enable 'Tutor mode' in the settings and examine your score after you park.\n\nDRIVE SAFE!"
   "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases" },
   "minVersion": null,
-  "maxVersion": "1.8.0"
+  "maxVersion": "1.8.8"
 }
