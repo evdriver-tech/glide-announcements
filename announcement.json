@@ -4,5 +4,5 @@
   "body": "🗺️Scored well on your last drive? Now you can share it!\n\n🛠️Fix GPS issues in some devices.\n\n🎛️ New live G-force gauge shows the forces on your car in real time as you drive.\n\n🎓 New driver? Prefer to have 100% focus on the road? Enable 'Tutor mode' in the settings and examine your score after you park.\n\nDRIVE SAFE!",
   "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.1.6/Glide-2.1.6.apk" },
   "minVersion": null,
-  "maxVersion": null
+  "maxVersion": "2.1.5"
 }
