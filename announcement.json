@@ -1,8 +1,8 @@
 {
   "id": "glide-1.9.0",
   "title": "Glide 1.9.0 is here (GPS FIX)",
-  "body": "🛠️Fix GPS issues in some devices.\n\n🚇 Tunnels & underground now covered — Glide keeps scoring and coaching you even with no GPS.\n\n🎛️ New live G-force gauge shows the forces on your car in real time as you drive.\n\n🎓 New driver? Prefer to have 100% focus on the road? Enable 'Tutor mode' in the settings and examine your score after you park.\n\nDRIVE SAFE!",
-  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases" },
+  "body": "🗺️Scored well on your last drive? Now you can share it!\n\n🛠️Fix GPS issues in some devices.\n\n🎛️ New live G-force gauge shows the forces on your car in real time as you drive.\n\n🎓 New driver? Prefer to have 100% focus on the road? Enable 'Tutor mode' in the settings and examine your score after you park.\n\nDRIVE SAFE!",
+  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.1.6/Glide-2.1.6.apk" },
   "minVersion": null,
   "maxVersion": null
 }
