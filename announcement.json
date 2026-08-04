@@ -2,7 +2,7 @@
   "id": "glide-2.1.7",
   "title": "Glide v2.1.7 - improved urban scoring!",
   "body": "🎯New on-spot urban scoring.🏙️\n\n 🗺️Scored well on your last drive? Now you can share it!\n\n🛠️Fix GPS issues in some devices.\n\n🎓 New driver? Prefer to have 100% focus on the road? Enable 'Tutor mode' in the settings and examine your score after you park.\n\nDRIVE SAFE!",
-  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.1.6/Glide-2.1.6.apk" },
+  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.1.7/Glide-2.1.7.apk" },
   "minVersion": null,
   "maxVersion": "2.1.6"
 }
