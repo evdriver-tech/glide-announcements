@@ -4,5 +4,5 @@
   "body": "⚡ Rebuilt efficiency scoring — city driving will now have fair scores. \n\n🔍 New \"Where did I lose points?\" — open any trip, or your all-time stats, and see exactly which category cost you.\n\n🗺️ Smarter map — tap anywhere along your route to read the speed you were doing there.\n\n↩️ Corners measured properly — a new gyro-fused force reading holds through the whole turn.\n\n📊 Fairer averages — your all-time scores are now weighted by distance.",
   "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.2.2/Glide-2.2.2.apk" },
   "minVersion": null,
-  "maxVersion": "2.2.1"
+  "maxVersion": "2.2.2"
 }
