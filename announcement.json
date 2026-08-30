@@ -1,8 +1,8 @@
 {
-  "id": "glide-2.2.2",
-  "title": "Glide 2.2.2 is here 🏎️",
-  "body": "⚡ Rebuilt efficiency scoring — city driving will now have fair scores. \n\n🔍 New \"Where did I lose points?\" — open any trip, or your all-time stats, and see exactly which category cost you.\n\n🗺️ Smarter map — tap anywhere along your route to read the speed you were doing there.\n\n↩️ Corners measured properly — a new gyro-fused force reading holds through the whole turn.\n\n📊 Fairer averages — your all-time scores are now weighted by distance.",
-  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/download/v2.2.2/Glide-2.2.2.apk" },
+  "id": "glide-3.4.1",
+  "title": "Glide 3.4.1 — now for every car 🏎️",
+  "body": "🔌⛽ Glide now help you track your energy consumption per car profile! — electric, hybrid or petrol — log fill-ups/charges so you can learn more about your expenses.\n\n📉 See what you actually consumed. The efficiency chart now plots the real kWh/100 km (or L/100 km) from your own energy log, measured pack to pack across each leg. Now you can see how much your improved driving saves real $$ at the pump.\n\n💾 New master backup packs your cars, trip's score and your whole energy log small enough to keep in Drive — and to restore from on a new phone.",
+  "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/latest" },
   "minVersion": null,
-  "maxVersion": "2.2.2"
+  "maxVersion": "3.4.0"
 }
