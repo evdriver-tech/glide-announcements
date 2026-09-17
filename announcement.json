@@ -1,7 +1,7 @@
 {
-  "id": "glide-3.4.1",
-  "title": "Glide 3.4.1 — now for every car 🏎️",
-  "body": "🔌⛽ Glide now help you track your energy consumption per car profile! — electric, hybrid or petrol — log fill-ups/charges so you can learn more about your expenses.\n\n📉 See what you actually consumed. The efficiency chart now plots the real kWh/100 km (or L/100 km) from your own energy log, measured pack to pack across each leg. Now you can see how much your improved driving saves real $$ at the pump.\n\n💾 New master backup packs your cars, trip's score and your whole energy log small enough to keep in Drive — and to restore from on a new phone.",
+  "id": "glide-4.0.5",
+  "title": "Glide 4.0.5 — now with maintanace tracker! 🏎️",
+  "body": "🔌⛽ Glide now help you track your energy consumption per car profile! — electric, hybrid or petrol — Check the camera-assisted capture!.\n\n 🗓️Get reminders about insurance renewal or upcoming maintanance. \n\n📊Get your yearly expenses report including insurance, repairs, and fueling. \n\n💾 New master backup packs your cars, trip's score and your whole energy log small enough to keep in Drive — and to restore from on a new phone.",
   "action": { "label": "Get the update", "url": "https://github.com/evdriver-tech/glide-announcements/releases/latest" },
   "minVersion": null,
   "maxVersion": "3.4.0"
